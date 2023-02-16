@@ -13,7 +13,10 @@
   - function countElementsByOddOrEven(array)
   - gözlənilən nəticə: cüt: 5, tək: 5
 4. Funksiya yazın. Verilmiş array dəki yalnız type string olan elementləri çap edin
-  - array: ```['Tofiq','Ruslan','Səma',3,null,'Məhəmməd',{'type':"user"},[1,2,3]]```
+  - array: 
+  ```javascript
+  ['Tofiq','Ruslan','Səma',3,null,'Məhəmməd',{'type':"user"},[1,2,3]]
+  ```
   - function printOnlyStrings(array)
 5. Array in içərisindəki bütün obyektlərin title propertylərini çap edin
   - object: 
