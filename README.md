@@ -1,9 +1,15 @@
-1. Funksiya yazın. Verilmiş array dəki bütün rəqəmləri cəmləyən funksiya yazın
-   - array: [23,45,22,36,-45,84]
+1. Verilmiş array dəki bütün rəqəmləri cəmləyən funksiya yazın
+   - array: 
+   ```javascript
+   [23,45,22,36,-45,84]
+   ```
    - function sumArrayElements(array)
 2. 1 ci taskda qeyd olunmuş funksiyaya əlavə edin. Funksiyaya içərisində digər type lar olan array göndərsəm yalnızca type number olan elementləri toplasın və funksiya xəta verməsin
 3. Funksiya yazın. Verilmiş array in içərisindəki rəqəmlərdə cüt və tək olanların sayını hesablasın və çap etsin.
-  - array:[1,5,20,32,54,79,82,91,564,351]
+  - array:
+   ```javascript
+  [1,5,20,32,54,79,82,91,564,351]
+  ```
   - function countElementsByOddOrEven(array)
   - gözlənilən nəticə: cüt: 5, tək: 5
 4. Funksiya yazın. Verilmiş array dəki yalnız type string olan elementləri çap edin
