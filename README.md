@@ -44,7 +44,7 @@
     ];
     ```
 ---
-6. Task 5 də qeyd olunmuş obyektlərdəki yalnız olan obyektlərin title propertysini çap edin.
+6. Task 5 də qeyd olunmuş obyektlərdəki yalnız `readingStatus==true` olan obyektlərin title propertysini çap edin.
 ---
 7. Verilmiş array dəki elementlərin neçə dəfə təkrarlandığını göstərən funksiya yazın
    - array:
