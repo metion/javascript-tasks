@@ -11,7 +11,7 @@
   - function printOnlyStrings(array)
 5. Array in içərisindəki bütün obyektlərin title propertylərini çap edin
   - object: 
-  ```json
+  ```javascript
   var library = [
     {
     author: 'Bill Gates',
@@ -33,7 +33,7 @@
 6. Task 5 də qeyd olunmuş obyektlərdəki yalnız ```readingStatus==true``` olan obyektlərin title propertysini çap edin.
 7. Verilmiş array dəki elementlərin neçə dəfə təkrarlandığını göstərən funksiya yazın
   - array: 
-```json
+```javascript
 [1,1,5,'Mahammad','Mahammad',null,null,null,undefined,undefined,4,5,5,4]
 ```
   - function countElementsBySimilar(array)
