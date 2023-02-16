@@ -40,7 +40,8 @@
 ];
 ```
 6. Task 5 də qeyd olunmuş obyektlərdəki yalnız 
-```javascript readingStatus==true
+```javascript
+readingStatus==true
 ``` 
    olan obyektlərin title propertysini çap edin.
 7. Verilmiş array dəki elementlərin neçə dəfə təkrarlandığını göstərən funksiya yazın
